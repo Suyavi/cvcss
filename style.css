@@ -16,7 +16,7 @@ p, a, span, li {
 
 
 header {
-  padding: 15px 70px;
+  padding: 50px 70px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -114,4 +114,8 @@ details summary {
 details summary h2 {
   margin: 0;
   margin-left: 5px; /* Adjust this value to change the space between the arrow and the h2 tag */
+}
+
+body {
+  background-color: #eaf6f6;
 }
